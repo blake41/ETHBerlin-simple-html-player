@@ -1,6 +1,6 @@
-#Broadcasting on Livepeer
+# Broadcasting on Livepeer
 
-##`Introduction`
+## `Introduction`
 
 This document is a recipe for how to broadcast on `Livepeer`.
 
@@ -10,7 +10,7 @@ It will also provide a `very simple` step-by-step method to `install` and `confi
 
 It may seem long, but it works. `I hope`. If it doesn't, come and find [me on gitter] (http://gitter.im/chrishobcroft)
 
-##`Equipment`
+## `Equipment`
 
 In order to _create_ a `broadcaster node` using [`Livepeer`](http://livepeer.org) and Open Broadcast Studio ([OBS](http://obsproject.com)) you will need:
 
@@ -29,11 +29,11 @@ In order to _create_ a `broadcaster node` using [`Livepeer`](http://livepeer.org
 
   - with power supply (_battery_ or _power supply_)
 
-##`Method`
+## `Method`
 
-###_Create_ a streaming node using Livepeer.
+### _Create_ a streaming node using Livepeer.
 
-####download livepeer software
+#### download livepeer software
 
 - Go to [`go-livepeer software release page`](https://github.com/livepeer/go-livepeer/releases)
 
@@ -41,7 +41,7 @@ In order to _create_ a `broadcaster node` using [`Livepeer`](http://livepeer.org
 
 - `Extract` the content of the `.zip` file into your _favourite folder_
 
-####Run livepeer
+#### Run livepeer
 
 - open a `command-line-interface` (such as `terminal`) in your _favourite folder_
 
@@ -72,7 +72,7 @@ When you see the following message, then the `streaming node` is running:
 LPMS Server listening on :1935
 ```
 
-####configure livepeer
+#### configure livepeer
 
 - open another `command-line-interface` in your _favourite folder_
 
@@ -119,13 +119,13 @@ LPMS Server listening on :1935
 
 ###_**You are now ready to broadcast on Livepeer.**_
 
-###Download and install [OBS](http://obsproject.com)
+### Download and install [OBS](http://obsproject.com)
 
 - follow the `excellent` instructions at [OBS Project Home Page](http://obsproject.com)
 
-###Configure [OBS](http://obsproject.com) to broadcast on Livepeer
+### Configure [OBS](http://obsproject.com) to broadcast on Livepeer
 
-####launch [OBS](http://obsproject.com) software
+#### launch [OBS](http://obsproject.com) software
 
 - if you are opening for the first time, cancel the configuration _wizard_
 
@@ -147,7 +147,7 @@ LPMS Server listening on :1935
 
 - Click _**OK**_
 
-###Start broadcasting and monitoring
+### Start broadcasting and monitoring
 
 - Ensure livepeer is running (see instructions above)
 
