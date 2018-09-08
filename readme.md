@@ -8,7 +8,7 @@ It will explain what equipment you will need to `start`.
 
 It will also provide a `very simple` step-by-step method to `install` and `configure` the required _software_.
 
-It may seem long, but it works. `I hope`. If it doesn't, come and find [me on gitter] (http://gitter.im/chrishobcroft)
+It may seem long, but it works. `I hope`. If it doesn't, come and find [me on discord] (https://discord.gg/DCm68PT)
 
 ## `Equipment`
 
