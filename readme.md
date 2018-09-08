@@ -89,22 +89,10 @@ LPMS Server listening on :1935
 
 - ask the livepeer team and we can send you test ETH
 
-- get test LPT
-
- - go to the `terminal` window where `livepeer_cli` is running
-
- - enter `10`, to select option `10. Get test LPT`, and press return
-
-    - This can take up to `10 minutes` to arrive, but often happens in seconds, `maybe faster`
-
-    - You can verify whether you have received the LPT using option `1` in `livepeer_cli` to run `1. Get node status`, and look for `LPT Balance`
-
     - Also, you can use [Etherscan's Rinkeby Explorer](https://rinkeby.etherscan.io) to view the details of your _ETH Account_.
-    - There should now be 2 transactions
-
-    - If you do not have any LPT in your account, contact the [Livepeer Team](http://gitter.im/livepeer/Lobby) and someone there will be happy to help you get some test `LPT`.
 
 - deposit ETH into your broadcaster account
+ - Suggested deposit: 1000
 
  - this deposit covers your broadcasting costs
 
@@ -114,8 +102,6 @@ LPMS Server listening on :1935
 
  - This can take _up to 10 minutes_ to arrive, but often happens `in seconds`, _maybe faster_
  - You can use [Etherscan's Rinkeby Explorer](https://rinkeby.etherscan.io) to view the details of your _ETH Account_.
-
- - There should now be 3 transactions
 
 ###_**You are now ready to broadcast on Livepeer.**_
 
